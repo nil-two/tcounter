@@ -39,7 +39,7 @@ Installation
 2. Make `tcounter` executable.
 
 ```
-$ curl -L https://raw.githubusercontent.com/kusabashira/tcounter/master/tcounter > ~/bin/tcounter
+$ curl -L https://raw.githubusercontent.com/nil2nekoni2/tcounter/master/tcounter > ~/bin/tcounter
 $ chmod +x ~/bin/tcounter
 ```
 
